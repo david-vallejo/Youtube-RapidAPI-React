@@ -1,10 +1,10 @@
 #Download the project Files
 
-Then In the terminal run: `npm i`
+### In the terminal run: `npm i`
 
 ## Navigate to the project folder and then:
 
-### Then In the terminal run: `npm start`
+### In the terminal run: `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
